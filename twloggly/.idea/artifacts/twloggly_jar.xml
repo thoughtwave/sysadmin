@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="twloggly:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/twloggly_jar</output-path>
+    <root id="archive" name="twloggly.jar">
+      <element id="module-output" name="twloggly" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../lib/jackson-annotations-2.5.2-20150207.000648-1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../lib/jackson-databind-2.1.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../lib/jackson-core-2.5.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
